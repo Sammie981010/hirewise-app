@@ -1,0 +1,7 @@
+tkinter
+uuid
+json
+datetime
+os
+requests
+geocoder
